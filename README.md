@@ -15,11 +15,13 @@ sudo apt-get autoremove
 ```
 
 ### Chrome Installation
-Download the **deb** file and install
+Download the **.deb** file and install
+```
+sudo dpkg -i **file_to_install__.deb**
 ```
 
-```
 ### Graphic card installation with CUDA drivers
+Installing CUDA drivers use this [LINK](https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=22.04&target_type=deb_local)
 
 ### Installing editors
 
