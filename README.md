@@ -43,3 +43,6 @@ sudo dpkg -i **file_to_install__.deb**
 
 ### ROS2 setup
 ROS installation link [LINK](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html)
+
+### Terminator setup
+Termintor install [LINK](https://innovativeinnovation.github.io/ubuntu-setup/terminals/terminator.html)
