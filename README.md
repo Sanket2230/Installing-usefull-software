@@ -24,7 +24,9 @@ sudo dpkg -i **file_to_install__.deb**
 Installing CUDA drivers use this [LINK](https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=22.04&target_type=deb_local)
 
 ### Installing editors
+VS Code install [LINK]()
 
 ### Python setup
 
 ### ROS2 setup
+ROS installation link [LINK](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html)
