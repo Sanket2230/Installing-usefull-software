@@ -32,6 +32,9 @@ nvidia-smi
 
 ### Installing editors
 VS Code install [LINK](https://code.visualstudio.com/docs/?dv=linux64_deb)
+```
+sudo dpkg -i **file_to_install__.deb**
+```
 
 
 
